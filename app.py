@@ -57,6 +57,7 @@ with col2:
         mime="application/octet-stream",
     )
     st.write("📫", EMAIL)
+    st.write("📱", "616-419-9327")
 
 
 # --- SOCIAL LINKS ---
